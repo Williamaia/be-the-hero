@@ -46,7 +46,7 @@ export default function NewIncident() {
         <h1>Cadastrar nova ajuda</h1>
         <p>Descreva o que precisa detalhadamente para encntrar um herói que possa ajuda-lo(a)!</p>
 
-        <Link className="link" to="/profile">
+        <Link className="back-link" to="/profile">
           <FiArrowLeft size={16} color="#e02041" />
           Voltar para home
         </Link>
